@@ -9,4 +9,4 @@ In this repository are the machine learning codes for the following studies:
   
 To see the knitted R markdown files as uploaded in hmtl files, please use GitHub & BitBucket HTML Preview:
 https://htmlpreview.github.io/ 
-or add the prefix to the URL: http://htmlpreview.github.io/?https://github.com/placeholder/example1/blob/gh-pages/2.3.2/index.html
+or add the prefix to the URL: http://htmlpreview.github.io/?
