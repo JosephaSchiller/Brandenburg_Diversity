@@ -4,7 +4,7 @@ In this repository are the machine learning codes for the following studies:
    - Machine learning analysis
 
 2. Schiller, J., ..., Ryo, M. Exploring cross-scale interactions in spatial and temporal crop diversity in Northeastern Germany (in preparation)
-   - Principal component analysis
+   - Principal component analysis: Schiller_et_al_PCA.html
    - Machine learning analysis
   
 To see the knitted R markdown files as uploaded in hmtl files, please use GitHub & BitBucket HTML Preview:
